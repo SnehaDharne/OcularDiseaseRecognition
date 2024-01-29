@@ -15,6 +15,9 @@ Cropped -                               https://drive.google.com/drive/folders/1
 Resized -                               https://drive.google.com/drive/folders/1-JDS2owvl-Olf-dCFSdV56k3GXfcp25-?usp=sharing
 ![image](https://github.com/SnehaDharne/OcularDiseaseRecognition/assets/55712542/d802c6e8-b57b-41c3-a905-74576ddc0a35)
 
+Image Preprocessing (CLAHE)
+![image](https://github.com/SnehaDharne/OcularDiseaseRecognition/assets/55712542/1aaa0925-261d-40b5-8c58-74c5c3e19fb9)
+
 Image Preprocessing (CLAHE + MSR ) -    https://drive.google.com/drive/folders/1-0U_xrU32HnsO0w3ZLdbJh2XCjEprEKK?usp=sharing
 ![image](https://github.com/SnehaDharne/OcularDiseaseRecognition/assets/55712542/e5f96cac-b2ae-4dac-b38b-3eb462225712)
 
