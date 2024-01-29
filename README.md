@@ -1,5 +1,17 @@
 # OcularDiseaseRecognition
-This is my final research project to complete BTech in IT at Manipal Institute of Technology. 
+This study focuses on the recognition of ocular diseases from fundus images using a combination of generic image preprocessing techniques and state-of-the-art convolutional neural network (CNN) models with transfer learning. The aim is to accurately identify and classify various ocular diseases, including Normal, Diabetes, Glaucoma, Cataract, AMD, Hypertension, Myopia, and Others.
+
+To improve the quality of fundus images and facilitate the identification of disease-specific features, image enhancement techniques such as histogram equalization and Gaussian filtering are employed. These techniques enhance contrast, details, and local contrast, improving image visibility and quality.
+
+In addition, a deep learning architecture called MIRNet is utilized to further enhance the images by capturing global and local features while preserving both details and textures. MIRNet utilizes invertible building blocks, residual connections, attention mechanisms, and a perceptual loss function to produce visually pleasing images with improved brightness, contrast, and details while reducing noise and artifacts associated with low-light conditions.
+
+Transfer learning is employed to leverage pre-trained CNN models, specifically ResNet50 and VGG16, which have been trained on the ImageNet dataset. The pre-trained models' weights are utilized as an initialization point, and the final layers or some intermediate layers are modified or replaced to adapt to the ocular disease recognition task. This approach reduces the training time and data requirements while benefiting from the pre-trained models' learned representations and features.
+
+To optimize the performance of the models, hyperparameter tuning is conducted using the Keras Tuner library. The library facilitates the search for optimal hyperparameters using techniques such as random search, hyperband, or Bayesian optimization. Area  
+under ROC curve (or AUC) is the performance metric evaluated to further assess the model.
+
+The ultimate goal of this study is to develop an accurate and efficient system for ocular disease recognition from fundus images. The findings and insights gained from this research can contribute to advancements in medical imaging and assist healthcare professionals in the early detection and treatment of ocular diseases, potentially improving patient outcomes and quality of life. 
+ 
 
 
 #Dataset
