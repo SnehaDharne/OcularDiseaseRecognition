@@ -78,7 +78,5 @@ tensorflow, keras, opencv-python, numpy, pandas, matplotlib, seaborn, scikit-lea
 Sneha Dharne
 MS in Computer Science (ML) – Stevens Institute of Technology
 [LinkedIn](https://www.linkedin.com/in/snehadharne) • [GitHub](https://github.com/SnehaDharne)
-## Credits
-This project was developed as part of an academic thesis and presented at [event/institution name if needed].
 ### Additional Note
 - The example images in the Dataset section are embedded using markdown images. They are hosted on GitHub (from the assets folder of the repo). The links in the table are direct links to the images.
